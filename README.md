@@ -1,2 +1,2 @@
-# pos_system
+# POS Program
 JAVA Swing Project
